@@ -46,6 +46,17 @@ dev_dependencies:
   # rules and activating additional ones.
   flutter_lints: ^2.0.0
   flutter_native_splash: any
+  provider: 6.0.3
+  shared_preferences: ^2.0.15
+  pinput: 1.2.0
+  mask_text_input_formatter: ^1.2.1
+  progress_dialog: ^1.2.4
+  
+  #firebasedependecies
+  firebase_core: ^2.1.1
+  firebase_messaging: ^14.0.3
+  firebase_auth: any
+  cloud_firestore: ^4.0.3
 
 flutter_native_splash: 
   color: "#FFFFFF"
